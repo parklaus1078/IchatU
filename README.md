@@ -1,4 +1,4 @@
-# Personal Project 1: IchatU
+# Personal Project: IchatU
 
 ## Service Objectives:
 - First Objective: 
