@@ -27,9 +27,6 @@ export class User {
   @Column({ type: 'varchar', length: 255, nullable: false })
   nickname: string;
 
-  @Column({ type: 'longtext', nullable: true })
-  token: string;
-
   @Column({ type: 'timestamp', nullable: true })
   last_login_at: Date;
 
